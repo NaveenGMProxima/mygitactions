@@ -1,7 +1,9 @@
 def hello():
-    printf("hi")
+    print("hi")
+
 
 def bye():
-  print("bye")
+    print("bye")
+
 
 print(hello())
